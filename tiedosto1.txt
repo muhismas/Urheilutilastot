@@ -1,0 +1,4 @@
+sauli,tarja,32,34
+sauli,tarja,30,31
+sauli,aaro,1,0
+aaro,sauli,3,0
